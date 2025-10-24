@@ -22,7 +22,6 @@ I'm currently learning and building projects to grow as a **software developer**
 I'm developing **[DiviGastos](#)** — an Android app that helps friends split expenses easily, track who paid what, and share the final summary.  
 It's built with **Kotlin** and **Android Studio**, and I'm planning to integrate **Mercado Pago**.
 
-### 🌱 Currently learning
-- Android app architecture (MVVM, Room, LiveData)  
+### 🌱 Currently learning 
 - QA automation tools and practices  
 - Clean code and design patterns in C#
